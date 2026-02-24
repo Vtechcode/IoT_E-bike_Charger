@@ -6,10 +6,10 @@ A major challenge remains the limited access to affordable and readily available
 There is a need for low-cost, locally adaptable charging solutions with smart monitoring and billing features tailored to the Kenyan e-bike ecosystem.
 
 ## 🛠️ Technologies Used
-Microcontroller: RaspberryPi Pico / ESP32
-Language: C / C++ / Java / Python
-IDE: Thonny IDE / Arduino IDE / Android Studio
+Microcontroller: RaspberryPi Pico / ESP32 <br>
+Language: C / C++ / Java / Python <br>
+IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
 ## 📸 Charger Testing
 
-![Testing Setup](images/test1.jpg)
+![Testing Setup](Images/test1.jpg)
