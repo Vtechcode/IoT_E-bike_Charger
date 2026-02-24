@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "buck_converter_module")(type "KiCad")(uri "C:/Users/hp/Desktop/Desktop/Hardware/Kicad/library/buck-converter-module/buck_converter_module.kicad_sym")(options "")(descr ""))
+)

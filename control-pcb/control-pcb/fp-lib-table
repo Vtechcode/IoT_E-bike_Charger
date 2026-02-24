@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "buck-converter-module")(type "KiCad")(uri "C:/Users/hp/Desktop/Desktop/Hardware/Kicad/library/buck-converter-module.pretty")(options "")(descr ""))
+)
