@@ -10,6 +10,14 @@ Microcontroller: RaspberryPi Pico / ESP32 <br>
 Language: C / C++ / Java / Python <br>
 IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
+## ⚙️ Features
+1 52V 8A output <br>
+2 Can charge a 13Ah battery within 1.6 hrs <br>
+3 Remote Control of the charger ie User can switch on and off the charger remotely <br>
+4 Remote monitoring of the power output -> the charger has a current sensor that measures the current, the readings are sent to Firebase via wifi <br>
+5 Automatic billing -> the billing is done based on energy consumed in real time and the user can see the amout via our mobile app <br>
+6 User friendly mobile app <br>
+
 ## 📸 Charger Testing
 
 ![Testing Setup](Images/test1.jpg)
