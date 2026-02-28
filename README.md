@@ -24,7 +24,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
 ## 📸 Charger Testing
 
-![Testing Setup](Images/test1.jpg)
+![Testing Setup](Images/test-final.jpg)
 
 ## 📸 Control PCB
 
