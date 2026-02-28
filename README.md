@@ -37,3 +37,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 ## 📸 Control Schematic
 
 ![Control Setup](Images/control-schematic-small.jpg)
+
+## 📸 Rectification Schematic
+
+![Control Setup](Images/rectification-schematic.jpg)
