@@ -29,3 +29,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 ## 📸 Control PCB
 
 ![Control Setup](Images/control-top-small.jpg)
+
+## 📸 Rectification PCB
+
+![Control Setup](Images/rectification-top-small.jpg)
