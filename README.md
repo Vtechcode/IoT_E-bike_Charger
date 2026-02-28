@@ -28,4 +28,4 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
 ## 📸 Control PCB
 
-![Control Setup](Images/control-top.jpg)
+![Control Setup](Images/control-top-small.jpg)
