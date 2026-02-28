@@ -18,6 +18,10 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 5 Automatic billing -> the billing is done based on energy consumed in real time and the user can see the amout via our mobile app <br>
 6 User friendly mobile app <br>
 
+## 📸 Final Charger
+
+![Testing Setup](Images/Final-product.jpg)
+
 ## 📸 Charger Testing
 
 ![Testing Setup](Images/test1.jpg)
