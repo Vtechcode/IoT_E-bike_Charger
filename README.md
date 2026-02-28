@@ -20,7 +20,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
 ## 📸 Final Charger
 
-![Testing Setup](Images/Final-product.jpg)
+![Testing Setup](Images/Final-product-small.jpg)
 
 ## 📸 Charger Testing
 
