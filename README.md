@@ -41,3 +41,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 ## 📸 Rectification Schematic
 
 ![Control Setup](Images/rectification-schematic.jpg)
+
+## 📸 Firebase Database
+
+![Control Setup](Images/firebase.jpg)
