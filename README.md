@@ -48,4 +48,4 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 
 ## 📸 Android App
 
-![Control Setup](Images/home.jpg)
+![Control Setup](Images/home.jpeg)
