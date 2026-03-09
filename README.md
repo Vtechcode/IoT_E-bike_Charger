@@ -45,3 +45,7 @@ IDE: Thonny IDE / Arduino IDE / Android Studio <br>
 ## 📸 Firebase Database
 
 ![Control Setup](Images/firebase.jpg)
+
+## 📸 Android App
+
+![Control Setup](Images/home.jpg)
